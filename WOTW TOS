@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Terms of Service - Wrighting OTW</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  body { font-family: -apple-system, Segoe UI, Arial, sans-serif; max-width: 680px; margin: 40px auto; padding: 0 20px; line-height: 1.6; color: #1a1a1a; }
+  h1 { font-size: 1.6em; }
+  h2 { font-size: 1.15em; margin-top: 1.6em; }
+  .updated { color: #666; font-size: 0.9em; }
+</style>
+</head>
+<body>
+<h1>Terms of Service</h1>
+<p class="updated">Last updated: 2026-07-20</p>
+
+<p>This is a personal application ("the App") operated by a single individual to publish their own content to their own social media accounts (TikTok, Instagram). It is not a public product, service, or platform.</p>
+
+<h2>Who can use this</h2>
+<p>The App is used solely by its operator. It does not accept sign-ups, registrations, or use from any other person or account.</p>
+
+<h2>What the App does</h2>
+<p>The App authenticates to the operator's own TikTok and Instagram accounts via each platform's official API (OAuth) and publishes video content created by the operator to those accounts.</p>
+
+<h2>No warranty</h2>
+<p>The App is provided as-is, for personal use, with no warranty of any kind.</p>
+
+<h2>Changes</h2>
+<p>These terms may be updated as the App's functionality changes. The operator will update this page accordingly.</p>
+
+<h2>Contact</h2>
+<p>productionwotw@gmail.com</p>
+</body>
+</html>
